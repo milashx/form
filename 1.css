@@ -1,0 +1,28 @@
+.form{
+    width: 60%;
+    height: 100%;
+    border: 6px double;
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 19%;
+    background-color:white ;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
+}
+body{
+    background-color:rgb(142, 237, 169) ;
+}
+#t1{
+    font-size: 20px;
+    font: italic;
+    letter-spacing: 3px;
+    text-align: center; 
+}
+#t2{
+    font-size: 20px;
+}
+#t3{
+    font-size: 30px;
+    text-align: center;
+    font: italic;
+    letter-spacing: 3px;
+}
